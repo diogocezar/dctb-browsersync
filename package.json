@@ -1,0 +1,27 @@
+{
+  "name": "dctb-browsersync",
+  "version": "1.0.0",
+  "description": "Just a simple boilerplate to use BrowserSync.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-browsersync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-browsersync/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-browsersync#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
